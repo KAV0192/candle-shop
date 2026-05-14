@@ -214,7 +214,7 @@ function FilterPanel({
   closeMobileFilters,
 }) {
   return (
-    <div className={`${compact ? "" : "sticky top-28 hidden lg:block"} rounded-[1.8rem] border border-stone-200 bg-white p-5 shadow-[0_20px_70px_rgba(28,25,23,0.05)]`}>
+    <div className={`${compact ? "" : "sticky top-28 hidden h-fit lg:block"} rounded-[1.8rem] border border-stone-200 bg-white p-5 shadow-[0_20px_70px_rgba(28,25,23,0.05)]`}>
       <div className="mb-6 flex items-center justify-between">
         <h3 className="font-serif text-2xl tracking-[-0.05em]">Фильтры</h3>
         <SlidersHorizontal size={18} className="text-stone-400" />
