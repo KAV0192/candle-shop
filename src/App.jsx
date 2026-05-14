@@ -52,8 +52,8 @@ const products = [
     feature: "45 часов горения",
     scent: "Кедр, груша, белый мускус",
     tag: "Бестселлер",
-    image: "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=1400&q=90",
-    gallery: "https://images.unsplash.com/photo-1602874801007-bd458bb1b8b6?auto=format&fit=crop&w=1200&q=90",
+    image: "/images/north-morning.jpg",
+    gallery: "/images/north-morning.jpg",
   },
   {
     id: 2,
@@ -68,8 +68,8 @@ const products = [
     feature: "для текстиля и комнат",
     scent: "Свежий лён, ирис, дождевой аккорд",
     tag: "Новинка",
-    image: "https://images.unsplash.com/photo-1617897903246-719242758050?auto=format&fit=crop&w=1400&q=90",
-    gallery: "https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=1200&q=90",
+    image: "/images/clean-len.jpg",
+    gallery: "/images/clean-len.jpg",
   },
   {
     id: 3,
@@ -84,8 +84,8 @@ const products = [
     feature: "до 12 недель",
     scent: "Кедр, сандал, хлопок",
     tag: "Выбор редакции",
-    image: "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1400&q=90",
-    gallery: "https://images.unsplash.com/photo-1618220252344-8ec99ec624b1?auto=format&fit=crop&w=1200&q=90",
+    image: "/images/diff.jpg",
+    gallery: "/images/diff.jpg",
   },
   {
     id: 4,
@@ -101,8 +101,8 @@ const products = [
     feature: "подарочная упаковка",
     scent: "Свеча, спрей, хлопковый мешочек",
     tag: "Для подарка",
-    image: "https://images.unsplash.com/photo-1602523067449-f448c9c7b647?auto=format&fit=crop&w=1400&q=90",
-    gallery: "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=1200&q=90",
+    image: "/images/soft-ritual.png",
+    gallery: "/images/soft-ritual.png",
   },
   {
     id: 5,
@@ -117,8 +117,8 @@ const products = [
     feature: "50 часов горения",
     scent: "Янтарь, хвоя, дымная ваниль",
     tag: "Долгое горение",
-    image: "https://images.unsplash.com/photo-1602523067449-f448c9c7b647?auto=format&fit=crop&w=1400&q=90",
-    gallery: "https://images.unsplash.com/photo-1602874801007-bd458bb1b8b6?auto=format&fit=crop&w=1200&q=90",
+    image: "/images/jantar.jpg",
+    gallery: "/images/jantar.jpg",
   },
   {
     id: 6,
@@ -133,8 +133,8 @@ const products = [
     feature: "массив дуба",
     scent: "Матовая обработка, натуральная фактура",
     tag: "Ручная работа",
-    image: "https://images.unsplash.com/photo-1604014237800-1c9102c219da?auto=format&fit=crop&w=1400&q=90",
-    gallery: "https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=1200&q=90",
+    image: "/images/podnos.png",
+    gallery: "/images/podnos.png",
   },
   {
     id: 7,
@@ -149,8 +149,8 @@ const products = [
     feature: "42 часа горения",
     scent: "Пион, рисовое молоко, светлая древесина",
     tag: "Нежный аромат",
-    image: "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1400&q=90",
-    gallery: "https://images.unsplash.com/photo-1617897903246-719242758050?auto=format&fit=crop&w=1200&q=90",
+    image: "/images/pion-milk.png",
+    gallery: "/images/pion-milk.png",
   },
   {
     id: 8,
@@ -165,8 +165,8 @@ const products = [
     feature: "для шкафа и белья",
     scent: "Зелёный чай, дождь, белый хлопок",
     tag: "Для белья",
-    image: "https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=1400&q=90",
-    gallery: "https://images.unsplash.com/photo-1604014237800-1c9102c219da?auto=format&fit=crop&w=1200&q=90",
+    image: "/images/sashe.png",
+    gallery: "/images/sashe.png",
   },
 ];
 
